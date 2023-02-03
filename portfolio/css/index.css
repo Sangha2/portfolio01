@@ -302,6 +302,24 @@ ul{
 
 /**************컨텐츠 백그라운드. 보더, 컨텐츠 네임 컬러 셋팅**************/
 
+.section2Thumb{
+	background-image: url('../images/thumb1.png');
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+.section3Thumb{
+	background-image: url('../images/thumb2.png');
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+.section4Thumb{
+	background-image: url('../images/thumb3.png');
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+}
 
 
 
